@@ -1,0 +1,27 @@
+.sidebar-title {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
+
+.sidebar-items {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 22px;
+}
+
+.sidebar-label-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  padding-bottom: 22px;
+  cursor: pointer;
+  justify-content: space-evenly;
+  
+}
+
+.sidebar-label-container input {
+  margin-right: 0.5rem;
+}
+
